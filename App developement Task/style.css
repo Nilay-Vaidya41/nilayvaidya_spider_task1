@@ -1,0 +1,25 @@
+body {
+  background-color: #cce0c0;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  background-color: #d4452f;
+  border: 2px solid #333;
+  margin-top: 20px;
+}
+
+#score {
+  font-size: 24px;
+  margin: 20px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
